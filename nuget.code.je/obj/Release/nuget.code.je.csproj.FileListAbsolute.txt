@@ -1,0 +1,16 @@
+\\vmware-host\Shared Folders\Codentia\nuget.code.je\nuget.code.je\bin\nuget.code.je.dll.config
+\\vmware-host\Shared Folders\Codentia\nuget.code.je\nuget.code.je\bin\nuget.code.je.dll
+\\vmware-host\Shared Folders\Codentia\nuget.code.je\nuget.code.je\bin\nuget.code.je.pdb
+\\vmware-host\Shared Folders\Codentia\nuget.code.je\nuget.code.je\bin\Elmah.dll
+\\vmware-host\Shared Folders\Codentia\nuget.code.je\nuget.code.je\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\Codentia\nuget.code.je\nuget.code.je\bin\Microsoft.Web.XmlTransform.dll
+\\vmware-host\Shared Folders\Codentia\nuget.code.je\nuget.code.je\bin\Ninject.dll
+\\vmware-host\Shared Folders\Codentia\nuget.code.je\nuget.code.je\bin\NuGet.Core.dll
+\\vmware-host\Shared Folders\Codentia\nuget.code.je\nuget.code.je\bin\NuGet.Server.dll
+\\vmware-host\Shared Folders\Codentia\nuget.code.je\nuget.code.je\bin\RouteMagic.dll
+\\vmware-host\Shared Folders\Codentia\nuget.code.je\nuget.code.je\bin\WebActivatorEx.dll
+\\vmware-host\Shared Folders\Codentia\nuget.code.je\nuget.code.je\bin\Ninject.pdb
+\\vmware-host\Shared Folders\Codentia\nuget.code.je\nuget.code.je\bin\Ninject.xml
+\\vmware-host\Shared Folders\Codentia\nuget.code.je\nuget.code.je\obj\Release\nuget.code.je.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Codentia\nuget.code.je\nuget.code.je\obj\Release\nuget.code.je.dll
+\\vmware-host\Shared Folders\Codentia\nuget.code.je\nuget.code.je\obj\Release\nuget.code.je.pdb
